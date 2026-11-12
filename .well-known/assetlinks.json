@@ -1,0 +1,26 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.learning.repoexplorer.dev",
+      "sha256_cert_fingerprints": ["C3:46:B5:6E:AD:3D:26:5C:1F:E6:9A:23:4F:DF:18:4B:88:55:B4:E3:55:25:ED:D9:43:E4:EC:23:3A:07:FC:11"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.learning.repoexplorer.stg",
+      "sha256_cert_fingerprints": ["8B:07:36:CB:28:21:5F:7D:38:37:97:DC:21:5F:60:25:37:93:36:83:BA:78:5E:03:F4:45:9F:DA:DE:04:4E:87"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.learning.repoexplorer",
+      "sha256_cert_fingerprints": ["96:29:0A:2A:C4:E3:C5:1D:D6:9F:0A:C8:C9:F4:DF:4D:63:FF:71:CD:9F:67:1F:66:1E:C5:BF:0C:76:0B:AF:43"]
+    }
+  }
+]
